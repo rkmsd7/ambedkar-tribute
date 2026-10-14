@@ -1,0 +1,63 @@
+{
+  "intro": "Ambedkar wrote as an economist, a historian, a lawyer and a moral philosopher. Most of his work is collected in the seventeen-volume Dr. Babasaheb Ambedkar: Writings and Speeches (BAWS), published by the Government of Maharashtra and freely available online from the Ministry of Social Justice and Empowerment.",
+  "sections": [
+    {
+      "title": "Economics and Finance",
+      "items": [
+        { "year": 1915, "title": "Ancient Indian Commerce", "kind": "M.A. thesis, Columbia University", "summary": "His first academic work, tracing trade in ancient India. The thesis was lost for decades and survives only in references.", "baws": "" },
+        { "year": 1918, "title": "Small Holdings in India and Their Remedies", "kind": "Journal article", "summary": "Argues that fragmented farm holdings cannot be solved by consolidation alone; surplus labour must move to industry. An early statement of his view that industrialisation is the remedy for agrarian distress.", "baws": "Vol. 1" },
+        { "year": 1923, "title": "The Problem of the Rupee: Its Origin and Its Solution", "kind": "D.Sc. thesis, London School of Economics", "summary": "A history of Indian currency from 1800 and an argument for a gold-exchange standard with a fixed rupee. Cited before the Hilton Young Commission (1925), whose recommendations led to the Reserve Bank of India in 1935.", "baws": "Vol. 6", "link": "https://archive.org/details/in.ernet.dli.2015.46007" },
+        { "year": 1925, "title": "The Evolution of Provincial Finance in British India", "kind": "Ph.D. thesis, Columbia University (published 1925)", "summary": "Examines how fiscal relations between the Centre and the provinces developed from 1833 to 1921, with Edwin Seligman's foreword. The analysis underlies the fiscal federalism later written into the Constitution.", "baws": "Vol. 6" },
+        { "year": 1918, "title": "Evidence before the Southborough Committee", "kind": "Testimony", "summary": "His first political document, demanding separate representation for the Depressed Classes because 'the right of representation and the right to hold office under the State are the two most important rights that make up citizenship'.", "baws": "Vol. 1" }
+      ]
+    },
+    {
+      "title": "Caste and Hindu Society",
+      "items": [
+        { "year": 1916, "title": "Castes in India: Their Mechanism, Genesis and Development", "kind": "Seminar paper, Columbia University", "summary": "Caste is 'an enclosed class' created by the superimposition of endogamy on exogamy, spread by the imitation of Brahmin practices such as sati, enforced widowhood and child marriage.", "baws": "Vol. 1", "link": "https://www.columbia.edu/itc/mealac/pritchett/00ambedkar/txt_ambedkar_castes.html" },
+        { "year": 1936, "title": "Annihilation of Caste", "kind": "Undelivered presidential address, Jat-Pat Todak Mandal, Lahore", "summary": "His most famous text. Caste is not a division of labour but 'a division of labourers'; political reform and economic reform must wait on social reform; and because caste rests on religious sanction, 'you must destroy the religion of the shrutis and the smritis'. Gandhi's reply and Ambedkar's rejoinder were added to the 1937 edition.", "baws": "Vol. 1", "link": "https://www.columbia.edu/itc/mealac/pritchett/00ambedkar/ambedkar_aoc.html" },
+        { "year": 1946, "title": "Who Were the Shudras?", "kind": "Book", "summary": "Argues from the Vedas and Puranas that the Shudras were a Kshatriya community degraded to the fourth varna after a feud with the Brahmins, who refused to perform their sacred-thread ceremony. Dedicated to Jotirao Phule.", "baws": "Vol. 7" },
+        { "year": 1948, "title": "The Untouchables: Who Were They and Why They Became Untouchables?", "kind": "Book", "summary": "Proposes that untouchables were 'Broken Men' who settled outside villages and who remained Buddhist and beef-eating after Brahminism re-asserted itself, around the fourth century CE.", "baws": "Vol. 7" },
+        { "year": 1945, "title": "What Congress and Gandhi Have Done to the Untouchables", "kind": "Book", "summary": "A polemical history of the Congress's record on untouchability from 1917 to the Poona Pact, and the most direct statement of his quarrel with Gandhi.", "baws": "Vol. 9" },
+        { "year": 1956, "title": "Riddles in Hinduism", "kind": "Manuscript, published 1987", "summary": "Twenty-four 'riddles' on the Vedas, the varna system, the status of women and the divinity of Rama and Krishna. Its publication by the Maharashtra government in 1987 provoked protests in Bombay.", "baws": "Vol. 4" },
+        { "year": 1936, "title": "Waiting for a Visa", "kind": "Autobiographical notes", "summary": "Six short episodes of humiliation, from being refused a bullock cart as a boy to being thrown out of a Parsi inn in Baroda in 1917. Used as a text at Columbia University.", "baws": "Vol. 12", "link": "https://www.columbia.edu/itc/mealac/pritchett/00ambedkar/txt_ambedkar_waiting.html" }
+      ]
+    },
+    {
+      "title": "Politics, Nation and Law",
+      "items": [
+        { "year": 1940, "title": "Thoughts on Pakistan (Pakistan or the Partition of India)", "kind": "Book", "summary": "A dispassionate analysis of the Muslim League's demand, concluding that if Muslims want Pakistan it should be conceded, but with an exchange of populations and no communal veto on the rest of India. Dedicated to Ramabai.", "baws": "Vol. 8" },
+        { "year": 1943, "title": "Ranade, Gandhi and Jinnah", "kind": "Lecture, Gokhale Memorial Hall, Poona", "summary": "On the 101st birth anniversary of M.G. Ranade, he contrasts the liberal reformer with the two living leaders, and warns that 'in India, Bhakti or what may be called the path of devotion or hero-worship, plays a part in its politics unequalled in magnitude by the part it plays in the politics of any other country'.", "baws": "Vol. 1" },
+        { "year": 1945, "title": "States and Minorities", "kind": "Memorandum to the Constituent Assembly", "summary": "His draft constitution for the Scheduled Castes Federation, proposing fundamental rights, state socialism in key industries and collective farming, and safeguards against 'the tyranny of the majority'.", "baws": "Vol. 1" },
+        { "year": 1948, "title": "Draft Constitution of India and the Constituent Assembly Debates", "kind": "Drafting and speeches, 1947-1949", "summary": "His speeches introducing the Draft Constitution (4 November 1948) and closing the debate (25 November 1949) are the classic statements of the document's purpose, together with his defence of Article 32 as 'the heart and soul of the Constitution'.", "baws": "Vol. 13", "link": "https://www.constitutionofindia.net/debates/" },
+        { "year": 1955, "title": "Thoughts on Linguistic States", "kind": "Book", "summary": "Accepts linguistic states but warns that large states will dominate; proposes dividing Uttar Pradesh, Bihar and Madhya Pradesh and splitting Maharashtra into four. Includes a proposal for a second capital at Hyderabad.", "baws": "Vol. 1" },
+        { "year": 1951, "title": "The Hindu Code Bill speeches and resignation statement", "kind": "Parliamentary speeches", "summary": "His defence of the Bill and his statement on resigning from the Cabinet, in which he says the Bill was 'the greatest social reform measure ever undertaken by the Legislature in this country'.", "baws": "Vol. 14" }
+      ]
+    },
+    {
+      "title": "Buddhism and Religion",
+      "items": [
+        { "year": 1950, "title": "Buddha and the Future of His Religion", "kind": "Essay, Maha Bodhi journal", "summary": "Argues that Buddhism alone among religions is compatible with science and with liberty, equality and fraternity, and lays out what a modern Buddhist revival would need: a Buddhist 'Bible', a reformed Sangha and lay missions.", "baws": "Vol. 17" },
+        { "year": 1956, "title": "Why I like Buddhism and how it is useful to the world in its present circumstances", "kind": "BBC radio talk", "summary": "Buddhism teaches prajna, karuna and samata, and 'neither God nor soul can save society'.", "baws": "Vol. 17" },
+        { "year": 1956, "title": "Buddha or Karl Marx", "kind": "Essay / Kathmandu lecture", "summary": "Compares the two systems and finds that the Buddha arrives at the same ends of equality and the abolition of private sorrow by persuasion rather than force. 'The Buddha's method was different. His method was to change the mind of man.'", "baws": "Vol. 3" },
+        { "year": 1956, "title": "The Buddha and His Dhamma", "kind": "Book, published posthumously 1957", "summary": "His final work, a life of the Buddha and a systematic account of the Dhamma presented as a social and moral philosophy rather than a doctrine of the soul and rebirth. The Buddha left home, in Ambedkar's telling, over a dispute about water between the Sakyas and the Koliyas. It is the scripture of Navayana Buddhism.", "baws": "Vol. 11", "link": "https://www.columbia.edu/itc/mealac/pritchett/00ambedkar/ambedkar_buddha/" },
+        { "year": 1956, "title": "Revolution and Counter-Revolution in Ancient India", "kind": "Manuscript, published 1987", "summary": "Interprets Indian history as a Buddhist revolution followed by a Brahminical counter-revolution under Pushyamitra Sunga, with Manu's law-book as its charter.", "baws": "Vol. 3" }
+      ]
+    },
+    {
+      "title": "Newspapers he founded",
+      "items": [
+        { "year": 1920, "title": "Mooknayak (Leader of the Voiceless)", "kind": "Marathi fortnightly, 1920-23", "summary": "Started with Shahu Maharaj's support; the Kesari refused even to carry a paid announcement of it.", "baws": "" },
+        { "year": 1927, "title": "Bahishkrit Bharat (Excluded India)", "kind": "Marathi fortnightly, 1927-29", "summary": "Carried his editorials on Mahad and temple entry; many are translated in BAWS Vol. 17 and 19-22 (Marathi).", "baws": "" },
+        { "year": 1930, "title": "Janata (The People)", "kind": "Weekly, 1930-56", "summary": "Succeeded Bahishkrit Bharat and continued for a quarter century, renamed Prabuddha Bharat (Enlightened India) in February 1956.", "baws": "" }
+      ]
+    }
+  ],
+  "resources": [
+    { "title": "Writings and Speeches, 17 volumes (Ministry of Social Justice and Empowerment)", "url": "https://www.mea.gov.in/books-writings-of-ambedkar.htm" },
+    { "title": "Columbia University: Ambedkar texts and timeline (Frances Pritchett)", "url": "https://www.columbia.edu/itc/mealac/pritchett/00ambedkar/" },
+    { "title": "Constituent Assembly Debates (CADIndia)", "url": "https://www.constitutionofindia.net/debates/" },
+    { "title": "Dr. Ambedkar Foundation", "url": "https://ambedkarfoundation.nic.in/" },
+    { "title": "Velivada: Ambedkar book collection", "url": "https://velivada.com/" }
+  ]
+}

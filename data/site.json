@@ -1,0 +1,22 @@
+{
+  "name": "Babasaheb",
+  "title": "Dr. B.R. Ambedkar · A Life",
+  "tagline": "Jurist, economist, reformer, architect of the Constitution of India, and the man who brought the Dhamma home.",
+  "occasion": "Published 14 October 2026, seventy years after the Dhammachakra Pravartan at Deekshabhoomi, Nagpur.",
+  "dates": "14 April 1891 – 6 December 1956",
+  "nav": [
+    { "href": "/", "label": "Life" },
+    { "href": "/writings", "label": "Writings" },
+    { "href": "/speeches", "label": "Speeches" },
+    { "href": "/gallery", "label": "Photographs" },
+    { "href": "/videos", "label": "Videos" },
+    { "href": "/appearances", "label": "Appearances" },
+    { "href": "/deekshabhoomi", "label": "14 October 1956" }
+  ],
+  "stats": [
+    { "value": "65", "label": "years" },
+    { "value": "17", "label": "volumes of writings" },
+    { "value": "4", "label": "degrees from Columbia and the LSE" },
+    { "value": "~4 lakh", "label": "took the Dhamma with him at Nagpur" }
+  ]
+}
